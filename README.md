@@ -1,3 +1,7 @@
 # Intro 
 
-La prova prosegue. 
+Terzo test. Presto verranno aggiunti dettagli sul progetto. 
+
+# Values
+
+ 
